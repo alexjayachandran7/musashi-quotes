@@ -1,4 +1,4 @@
-package com.example.musashi_quotes
+package com.alexjayachandran.dokkodo
 
 import io.flutter.embedding.android.FlutterActivity
 
